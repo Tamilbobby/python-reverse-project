@@ -1,0 +1,11 @@
+#//program no 3
+#//03/11/22
+#the print digits number two digit no:
+
+a = int(input())
+r = a%10
+q = a//10
+print("user defined value:", a)
+
+print(r)
+print(q)
